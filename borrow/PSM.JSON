@@ -1,0 +1,44 @@
+{
+  "vaults": [
+    {
+      "id": "arbitrum-lusd-star",
+      "network": "arbitrum",
+      "contractAddress": "0x898384Af993534A2f953819787D3e9519a4A077f",
+      "vaultAddress": "0xb60c7b67098a64ba2f59731c34c6e26318c0eb9c",
+      "underlyingAsset": {
+        "address": "0x93b346b6bc2548da6a1e7d98e9a421b42541425b",
+        "name": "LUSD Stablecoin",
+        "symbol": "LUSD",
+        "image": "",
+        "decimals": 18
+      },
+      "debtAsset": {
+        "address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
+        "name": "STAR",
+        "symbol": "STAR",
+        "image": "",
+        "decimals": 18
+      }
+    },
+    {
+      "id": "polygon-dai-star",
+      "network": "polygon",
+      "contractAddress": "0x6b15a8536963bf0f564ba98963009826bba26792",
+      "vaultAddress": "0x5bc704d57eae34fdfb9d1884fb6f1183fc8fd918",
+      "underlyingAsset": {
+        "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+        "name": "DAI Stablecoin",
+        "symbol": "DAI",
+        "image": "",
+        "decimals": 18
+      },
+      "debtAsset": {
+        "address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
+        "name": "STAR",
+        "symbol": "STAR",
+        "image": "",
+        "decimals": 18
+      }
+    }
+  ]
+}

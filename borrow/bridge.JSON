@@ -1,0 +1,14 @@
+{
+  "arbitrum": {
+    "base": "184",
+    "polygon": "109"
+  },
+  "base": {
+    "arbitrum": "110",
+    "polygon": "109"
+  },
+  "polygon": {
+    "arbitrum": "110",
+    "base": "184"
+  }
+}
