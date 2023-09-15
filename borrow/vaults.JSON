@@ -29,6 +29,16 @@
       "togglers": {
         "status": "active"
       }
+    },
+    {
+      "network": "polygon",
+      "id": "polygon-smart-stmatic-vault",
+      "vaultName": "$stMATIC Nebula Vault",
+      "vaultDescription": "Borrow $STAR against $stMATIC collateral by opening a Nebula Vault",
+      "underlyingAddress": "0x3A58a54C066FdC0f2D55FC9C89F0415C92eBf3C4",
+      "togglers": {
+        "status": "active"
+      }
     }
   ]
 }
