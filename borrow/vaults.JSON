@@ -39,6 +39,14 @@
       "togglers": {
         "status": "active"
       }
+    },
+    {
+      "network": "polygon",
+      "id": "polygon-smart-maticx-wmatic-vault",
+      "vaultName": "$MATICX / $wMATIC Nebula Vault",
+      "vaultDescription": "Borrow $STAR against a MATICX/WMATIC Balancer BPT as collateral by opening a Nebula Vault",
+      "underlyingAddress": "0x8ec4913A83dDBE2eBfa79A92D8fa28f500EA0061",
+      "togglers": { "status": "active" }
     }
   ]
 }
